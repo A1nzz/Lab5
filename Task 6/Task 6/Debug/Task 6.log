@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Projects\Лаба 5\Task 6\Task 6\Source.cpp(33): warning C4715: findLargestOddCommonDivisor: значение возвращается не при всех путях выполнения
+  Task 6.vcxproj -> D:\Projects\Лаба 5\Task 6\Debug\Task 6.exe
